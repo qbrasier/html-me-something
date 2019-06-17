@@ -1,19 +1,22 @@
 title{
     padding-top: 5px;
     margin: 25px;
+
 }
 
 
 body{
     padding: 50px;
-    font-size: 16px;    
+    font-size: 16px; 
+    background-color: blueviolet;  
+    font-style: normal #000000; 
 }
 p{
     
     margin: 25px;
 }
 header{
-    font-size: 25px;
+    font-size: 90px;
     font-style: oblique;
 }
 figcaption{
@@ -29,5 +32,8 @@ figcaption{
     display: block;
 }
 #top_of_page{
-    border: 10px darkblue dashed;
+    border: 10px dark
+}
+#jimmypic{
+    border: 5px whitesmoke dotted;
 }
