@@ -1,0 +1,33 @@
+title{
+    padding-top: 5px;
+    margin: 25px;
+}
+
+
+body{
+    padding: 50px;
+    font-size: 16px;    
+}
+p{
+    
+    margin: 25px;
+}
+header{
+    font-size: 25px;
+    font-style: oblique;
+}
+figcaption{
+    padding-bottom: 50px;
+    font-size: 12px;
+}
+.pics{
+    max-height: 25vw;
+    width: auto;
+}
+#wikimain{
+    border: 5px solid #000000;
+    display: block;
+}
+#top_of_page{
+    border: 10px darkblue dashed;
+}
